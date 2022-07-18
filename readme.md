@@ -1,11 +1,10 @@
 # Hello my friend
 
-# amogus
+# Amogus
 
-# Hello there
+- Hello there
 
-# -Obi Wan Kenobi
+- General Kenobi
 
-# I am adding new one
-
-# I mean text
+I am adding new one
+I mean text
